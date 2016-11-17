@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube2sky:1.14
+MAINTAINER storm
