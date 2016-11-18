@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.15
+FROM gcr.io/google_containers/etcd-amd64:2.2.5
 MAINTAINER storm
